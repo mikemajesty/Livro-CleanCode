@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Chapter 2\Add-Meaningful-Context.cs" />
+    <Compile Include="Chapter 2\Avoid-Disinformation.cs" />
+    <Compile Include="Chapter 2\Avoid-Encodings.cs" />
+    <Compile Include="Chapter 2\Cell.cs" />
+    <Compile Include="Chapter 2\Member-Preﬁxes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Chapter 2\Use-Intention-Revealing-Names.cs" />
+    <Compile Include="Chapter 2\Use-Pronounceable-Names.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
