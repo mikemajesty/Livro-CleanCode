@@ -73,6 +73,26 @@
     <Compile Include="Chapter 3\User.cs" />
     <Compile Include="Chapter 3\UserValidator.cs" />
     <Compile Include="Chapter 3\WikiPage.cs" />
+    <Compile Include="Chapter 4\AtomicBoolean.cs" />
+    <Compile Include="Chapter 4\BoldWidget.cs" />
+    <Compile Include="Chapter 4\Clariﬁcation.cs" />
+    <Compile Include="Chapter 4\Class.cs" />
+    <Compile Include="Chapter 4\employee.cs" />
+    <Compile Include="Chapter 4\Explain-Yourself-in-Code.cs" />
+    <Compile Include="Chapter 4\Explanation-of-Intent.cs" />
+    <Compile Include="Chapter 4\FileInputStream.cs" />
+    <Compile Include="Chapter 4\Informative-Comments.cs" />
+    <Compile Include="Chapter 4\loadedProperties.cs" />
+    <Compile Include="Chapter 4\MockWidgetRoot.cs" />
+    <Compile Include="Chapter 4\Mumbling.cs" />
+    <Compile Include="Chapter 4\ParentWidget.cs" />
+    <Compile Include="Chapter 4\PathParser.cs" />
+    <Compile Include="Chapter 4\Pattern.cs" />
+    <Compile Include="Chapter 4\Responder.cs" />
+    <Compile Include="Chapter 4\StringUtil.cs" />
+    <Compile Include="Chapter 4\WidgetBuilder.cs" />
+    <Compile Include="Chapter 4\WidgetBuilderThread.cs" />
+    <Compile Include="Chapter 4\WikiPagePath.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Chapter 2\Use-Intention-Revealing-Names.cs" />
@@ -81,6 +101,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
