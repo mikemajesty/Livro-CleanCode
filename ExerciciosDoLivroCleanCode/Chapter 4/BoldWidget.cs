@@ -9,6 +9,11 @@
         {
         }
 
+        public BoldWidgets(string v)
+        {
+            this.v = v;
+        }
+
         public BoldWidgets(MockWidgetRoot mockWidgetRoot, string v)
         {
             this.mockWidgetRoot = mockWidgetRoot;

@@ -29,8 +29,7 @@ namespace ExerciciosDoLivroCleanCode.Chapter_4
 new WidgetBuilder(new Class[] {   });
             //www.it - ebooks.infoGood Comments
             String text = "'''bold text'''";
-            ParentWidget parent =
-            new BoldWidgets(new MockWidgetRoot(), "'''bold text'''");
+            ParentWidget parent = null;
             AtomicBoolean failFlag = new AtomicBoolean();
             failFlag.set(false);
             //This is our best attempt to get a race condition 

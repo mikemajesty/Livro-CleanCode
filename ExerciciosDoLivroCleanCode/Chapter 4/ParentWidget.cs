@@ -2,11 +2,13 @@
 
 namespace ExerciciosDoLivroCleanCode.Chapter_4
 {
-    internal class ParentWidget
+    public class ParentWidget
     {
-        public static implicit operator ParentWidget(BoldWidgets v)
+        public ParentWidget()
         {
             throw new NotImplementedException();
         }
+
+       
     }
 }
