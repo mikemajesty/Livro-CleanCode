@@ -107,6 +107,8 @@
     <Compile Include="Chapter 7\FileInputStream.cs" />
     <Compile Include="Chapter 7\RecordedGrip.cs" />
     <Compile Include="Chapter 7\StorageException.cs" />
+    <Compile Include="Chapter 10\SuperDashboard.cs" />
+    <Compile Include="Chapter 10\Version.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Chapter 2\Use-Intention-Revealing-Names.cs" />
@@ -117,7 +119,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Chapter 8\" />
-    <Folder Include="Chapter 9\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
