@@ -119,6 +119,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Chapter 11\" />
+    <Folder Include="Chapter 12\" />
     <Folder Include="Chapter 8\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
