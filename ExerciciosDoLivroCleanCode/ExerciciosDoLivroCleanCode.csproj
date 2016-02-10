@@ -124,6 +124,7 @@
     <Folder Include="Chapter 14\" />
     <Folder Include="Chapter 15\" />
     <Folder Include="Chapter 16\" />
+    <Folder Include="Chapter 17\" />
     <Folder Include="Chapter 8\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
